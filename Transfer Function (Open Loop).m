@@ -1,4 +1,4 @@
-%Priyanshu Lathi
+%Tejas Kajale
 
 %Transfer Function (Open loop)
 
