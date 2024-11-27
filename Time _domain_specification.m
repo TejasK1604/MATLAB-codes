@@ -1,4 +1,4 @@
-%Priyanshu Lathi
+%Tejas Kajale
 
 %Study of time domain specification of 2nd order system
 
