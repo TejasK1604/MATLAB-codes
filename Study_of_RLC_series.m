@@ -1,4 +1,4 @@
-%Priyanshu Lathi
+%Tejas Kajale
 
 %Study of RLC series
 
