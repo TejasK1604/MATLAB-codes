@@ -1,5 +1,5 @@
-%Priyanshu Lathi
-%PRN: 22070127048
+%Tejas Kajale
+
 %Study of RLC series
 
 clc;
